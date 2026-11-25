@@ -1,0 +1,163 @@
+[21:30:47] trainer loaded 1499 tensors in 34s; resuming at step 0
+[21:38:53] eval step 0: first_answer_acc=0.13 pass@4=0.2 (481s)
+[21:49:15] step 1: reward=0.3375 first_acc=0.375 seqs=180 tokens=1664385 diff=-0.0080 gnorm=0.004 rollout=337.0s train=217.1s
+[22:02:41] step 2: reward=0.1227 first_acc=0.1406 seqs=149 tokens=1587168 diff=-0.0080 gnorm=0.004 rollout=533.6s train=216.1s
+[22:17:05] step 3: reward=0.3016 first_acc=0.3438 seqs=227 tokens=2182552 diff=-0.0074 gnorm=0.004 rollout=586.4s train=227.2s
+[22:30:21] step 4: reward=0.2336 first_acc=0.2656 seqs=180 tokens=1873107 diff=-0.0085 gnorm=0.005 rollout=524.8s train=222.4s
+[22:42:04] step 5: reward=0.2523 first_acc=0.2812 seqs=129 tokens=1266907 diff=-0.0074 gnorm=0.003 rollout=532.0s train=126.8s
+[22:52:27] step 6: reward=0.1539 first_acc=0.1719 seqs=131 tokens=1198252 diff=-0.0074 gnorm=0.003 rollout=452.9s train=128.0s
+[23:02:27] step 7: reward=0.0406 first_acc=0.0469 seqs=112 tokens=1122489 diff=-0.0084 gnorm=0.002 rollout=440.3s train=117.9s
+[23:15:10] step 8: reward=0.2516 first_acc=0.2812 seqs=146 tokens=1334443 diff=-0.0084 gnorm=0.004 rollout=584.4s train=138.7s
+[23:28:00] step 9: reward=0.2133 first_acc=0.2344 seqs=131 tokens=1216997 diff=-0.0083 gnorm=0.003 rollout=593.9s train=134.0s
+[23:40:22] step 10: reward=0.0875 first_acc=0.0938 seqs=116 tokens=1114616 diff=-0.0097 gnorm=0.003 rollout=571.3s train=127.1s
+[23:50:35] eval step 10: first_answer_acc=0.19 pass@4=0.29 (613s)
+[00:05:12] step 11: reward=0.257 first_acc=0.2969 seqs=165 tokens=1789580 diff=-0.0090 gnorm=0.007 rollout=627.3s train=201.2s
+exit 1
+=== restart 1 at 2026-11-23 00:22:11 ===
+[00:27:16] trainer loaded 1499 tensors in 266s; resuming at step 10
+[00:40:13] eval step 10: first_answer_acc=0.16 pass@4=0.23 (771s)
+exit 1
+=== restart 2 at 2026-11-23 00:53:20 ===
+exit 1
+=== restart 3 at 2026-11-23 00:53:52 ===
+[00:54:46] trainer loaded 1499 tensors in 34s; resuming at step 10
+[01:08:51] eval step 10: first_answer_acc=0.18 pass@4=0.24 (840s)
+[01:24:07] step 11: reward=0.2586 first_acc=0.2969 seqs=147 tokens=1538369 diff=-0.0092 gnorm=0.004 rollout=534.9s train=335.5s
+[01:39:20] step 12: reward=0.1242 first_acc=0.1406 seqs=114 tokens=1167685 diff=-0.0086 gnorm=0.004 rollout=602.8s train=265.4s
+[01:56:07] step 13: reward=0.4047 first_acc=0.4531 seqs=232 tokens=2079425 diff=-0.0088 gnorm=0.005 rollout=526.6s train=436.9s
+[02:10:55] step 14: reward=0.2625 first_acc=0.2969 seqs=184 tokens=1667665 diff=-0.0093 gnorm=0.005 rollout=489.4s train=351.6s
+[02:24:07] step 15: reward=0.3445 first_acc=0.375 seqs=180 tokens=1608373 diff=-0.0082 gnorm=0.005 rollout=432.1s train=317.7s
+[02:40:40] step 16: reward=0.2906 first_acc=0.3281 seqs=163 tokens=1675756 diff=-0.0088 gnorm=0.005 rollout=595.4s train=353.4s
+[02:58:03] step 17: reward=0.2656 first_acc=0.2969 seqs=168 tokens=1753925 diff=-0.0103 gnorm=0.006 rollout=612.0s train=386.1s
+[03:12:26] step 18: reward=0.2148 first_acc=0.2344 seqs=170 tokens=1600947 diff=-0.0114 gnorm=0.006 rollout=496.3s train=323.5s
+[03:28:54] step 19: reward=0.3266 first_acc=0.3594 seqs=137 tokens=1236496 diff=-0.0096 gnorm=0.005 rollout=658.5s train=285.1s
+[03:43:15] step 20: reward=0.232 first_acc=0.2656 seqs=133 tokens=1289910 diff=-0.0102 gnorm=0.005 rollout=537.0s train=280.9s
+[03:54:43] eval step 20: first_answer_acc=0.2 pass@4=0.33 (688s)
+[04:09:57] step 21: reward=0.232 first_acc=0.25 seqs=147 tokens=1440437 diff=-0.0102 gnorm=0.004 rollout=551.6s train=318.0s
+[04:29:14] step 22: reward=0.2344 first_acc=0.2656 seqs=185 tokens=1852307 diff=-0.0108 gnorm=0.004 rollout=684.3s train=429.5s
+[04:43:39] step 23: reward=0.2437 first_acc=0.2656 seqs=117 tokens=934856 diff=-0.0101 gnorm=0.003 rollout=615.3s train=206.6s
+[05:02:25] step 24: reward=0.2055 first_acc=0.2344 seqs=166 tokens=1577188 diff=-0.0106 gnorm=0.006 rollout=754.4s train=328.5s
+[05:17:57] step 25: reward=0.1555 first_acc=0.1719 seqs=103 tokens=866639 diff=-0.0126 gnorm=0.004 rollout=688.2s train=198.8s
+[05:33:42] step 26: reward=0.3609 first_acc=0.3906 seqs=186 tokens=1695603 diff=-0.0121 gnorm=0.006 rollout=529.4s train=372.4s
+[05:52:05] step 27: reward=0.125 first_acc=0.1406 seqs=154 tokens=1486556 diff=-0.0138 gnorm=0.007 rollout=718.2s train=340.7s
+[06:11:22] step 28: reward=0.2117 first_acc=0.2344 seqs=193 tokens=1932026 diff=-0.0141 gnorm=0.008 rollout=672.3s train=441.5s
+[06:27:17] step 29: reward=0.2633 first_acc=0.2969 seqs=189 tokens=1619345 diff=-0.0125 gnorm=0.006 rollout=565.3s train=345.7s
+[06:43:44] step 30: reward=0.157 first_acc=0.1719 seqs=151 tokens=1446052 diff=-0.0142 gnorm=0.006 rollout=641.1s train=302.1s
+[06:59:19] eval step 30: first_answer_acc=0.16 pass@4=0.34 (935s)
+[07:16:51] step 31: reward=0.1938 first_acc=0.2188 seqs=156 tokens=1599568 diff=-0.0147 gnorm=0.008 rollout=639.7s train=368.9s
+[07:35:53] step 32: reward=0.2953 first_acc=0.3281 seqs=227 tokens=2083202 diff=-0.0142 gnorm=0.009 rollout=668.4s train=429.5s
+[07:56:48] step 33: reward=0.3125 first_acc=0.3438 seqs=195 tokens=1801086 diff=-0.0138 gnorm=0.007 rollout=796.6s train=414.0s
+[08:14:47] step 34: reward=0.2812 first_acc=0.3125 seqs=193 tokens=1856944 diff=-0.0147 gnorm=0.009 rollout=588.9s train=446.1s
+[08:35:07] step 35: reward=0.2984 first_acc=0.3125 seqs=202 tokens=1709308 diff=-0.0165 gnorm=0.008 rollout=770.6s train=404.1s
+=== restart 1 at 2026-11-23 18:51:40 ===
+[18:53:00] trainer loaded 1499 tensors in 40s; resuming at step 35
+[19:12:04] step 36: reward=0.2695 first_acc=0.2969 seqs=180 tokens=1539701 diff=-0.0167 gnorm=0.008 rollout=756.4s train=340.4s
+[19:34:05] step 37: reward=0.1555 first_acc=0.1719 seqs=171 tokens=1807475 diff=-0.0170 gnorm=0.007 rollout=834.0s train=441.0s
+exit 1
+=== restart 2 at 2026-11-23 19:54:43 ===
+[19:55:40] trainer loaded 1499 tensors in 35s; resuming at step 35
+[20:12:18] step 36: reward=0.2047 first_acc=0.2188 seqs=141 tokens=1051942 diff=-0.0157 gnorm=0.006 rollout=719.4s train=230.7s
+[20:33:49] step 37: reward=0.1969 first_acc=0.2188 seqs=171 tokens=1708738 diff=-0.0177 gnorm=0.009 rollout=829.9s train=417.1s
+[20:57:04] step 38: reward=0.318 first_acc=0.3438 seqs=215 tokens=2104786 diff=-0.0179 gnorm=0.010 rollout=847.3s train=500.3s
+[21:18:52] step 39: reward=0.0961 first_acc=0.1094 seqs=170 tokens=1716289 diff=-0.0166 gnorm=0.008 rollout=839.7s train=423.3s
+[21:38:14] step 40: reward=0.2602 first_acc=0.2812 seqs=204 tokens=1833283 diff=-0.0176 gnorm=0.010 rollout=694.5s train=422.0s
+[21:52:59] eval step 40: first_answer_acc=0.17 pass@4=0.34 (885s)
+[22:10:29] step 41: reward=0.1562 first_acc=0.1719 seqs=150 tokens=1324557 diff=-0.0178 gnorm=0.008 rollout=704.3s train=301.4s
+exit 1
+=== restart 3 at 2026-11-23 22:30:46 ===
+[22:31:37] trainer loaded 1499 tensors in 35s; resuming at step 40
+[22:46:39] eval step 40: first_answer_acc=0.21 pass@4=0.42 (897s)
+[23:05:50] step 41: reward=0.1164 first_acc=0.125 seqs=106 tokens=875028 diff=-0.0180 gnorm=0.005 rollout=894.3s train=200.6s
+[23:24:25] step 42: reward=0.293 first_acc=0.3125 seqs=192 tokens=1715574 diff=-0.0203 gnorm=0.009 rollout=671.1s train=400.2s
+[23:43:22] step 43: reward=0.1258 first_acc=0.125 seqs=185 tokens=1602347 diff=-0.0180 gnorm=0.008 rollout=726.9s train=364.3s
+[00:04:40] step 44: reward=0.2375 first_acc=0.25 seqs=196 tokens=1719947 diff=-0.0193 gnorm=0.010 rollout=775.5s train=457.5s
+exit 1
+=== restart 4 at 2026-11-24 00:23:05 ===
+[00:24:19] trainer loaded 1499 tensors in 35s; resuming at step 40
+[00:39:39] eval step 40: first_answer_acc=0.16 pass@4=0.31 (916s)
+[00:59:38] step 41: reward=0.2555 first_acc=0.2812 seqs=148 tokens=1487251 diff=-0.0172 gnorm=0.011 rollout=797.8s train=356.5s
+[01:18:29] step 42: reward=0.2906 first_acc=0.3125 seqs=205 tokens=1894487 diff=-0.0187 gnorm=0.008 rollout=661.8s train=428.2s
+[01:37:12] step 43: reward=0.1352 first_acc=0.1406 seqs=173 tokens=1490276 diff=-0.0203 gnorm=0.011 rollout=739.5s train=336.4s
+[01:57:49] step 44: reward=0.2437 first_acc=0.2656 seqs=231 tokens=1846363 diff=-0.0192 gnorm=0.008 rollout=761.5s train=431.6s
+[02:17:26] step 45: reward=0.1547 first_acc=0.1719 seqs=184 tokens=1766406 diff=-0.0193 gnorm=0.009 rollout=725.6s train=407.3s
+[02:33:56] step 46: reward=0.3125 first_acc=0.3281 seqs=154 tokens=1280862 diff=-0.0201 gnorm=0.009 rollout=666.2s train=281.0s
+[02:55:00] step 47: reward=0.2266 first_acc=0.2344 seqs=196 tokens=1891887 diff=-0.0216 gnorm=0.013 rollout=760.1s train=459.9s
+[03:15:37] step 48: reward=0.1492 first_acc=0.1562 seqs=168 tokens=1580047 diff=-0.0220 gnorm=0.009 rollout=836.1s train=357.0s
+[03:38:36] step 49: reward=0.3227 first_acc=0.3438 seqs=193 tokens=1773191 diff=-0.0223 gnorm=0.014 rollout=861.8s train=475.3s
+[03:58:42] step 50: reward=0.2109 first_acc=0.2188 seqs=200 tokens=1740784 diff=-0.0194 gnorm=0.009 rollout=803.5s train=360.0s
+[04:13:24] eval step 50: first_answer_acc=0.24 pass@4=0.42 (882s)
+[04:29:51] step 51: reward=0.1234 first_acc=0.125 seqs=142 tokens=1133724 diff=-0.0225 gnorm=0.009 rollout=683.6s train=260.0s
+[04:44:52] step 52: reward=0.2555 first_acc=0.2656 seqs=108 tokens=890628 diff=-0.0201 gnorm=0.007 rollout=678.0s train=180.7s
+[05:04:07] step 53: reward=0.2406 first_acc=0.25 seqs=247 tokens=2019137 diff=-0.0212 gnorm=0.013 rollout=658.4s train=452.9s
+[05:22:25] step 54: reward=0.2203 first_acc=0.2344 seqs=221 tokens=1794284 diff=-0.0217 gnorm=0.012 rollout=628.2s train=426.6s
+[05:45:55] step 55: reward=0.325 first_acc=0.3281 seqs=263 tokens=2446706 diff=-0.0232 gnorm=0.013 rollout=766.8s train=598.5s
+[06:04:05] step 56: reward=0.2398 first_acc=0.25 seqs=174 tokens=1372860 diff=-0.0247 gnorm=0.009 rollout=734.5s train=311.0s
+[06:21:36] step 57: reward=0.1531 first_acc=0.1562 seqs=171 tokens=1290514 diff=-0.0233 gnorm=0.010 rollout=699.9s train=308.2s
+[06:38:14] step 58: reward=0.3344 first_acc=0.3438 seqs=181 tokens=1474431 diff=-0.0254 gnorm=0.011 rollout=642.6s train=312.4s
+[06:57:02] step 59: reward=0.168 first_acc=0.1719 seqs=186 tokens=1577627 diff=-0.0251 gnorm=0.010 rollout=726.9s train=356.1s
+[07:17:15] step 60: reward=0.3648 first_acc=0.375 seqs=240 tokens=1897026 diff=-0.0259 gnorm=0.013 rollout=759.9s train=409.0s
+[07:34:37] eval step 60: first_answer_acc=0.21 pass@4=0.39 (1041s)
+[07:50:22] step 61: reward=0.2664 first_acc=0.2812 seqs=155 tokens=1222361 diff=-0.0250 gnorm=0.010 rollout=635.2s train=263.0s
+[08:10:49] step 62: reward=0.3977 first_acc=0.4062 seqs=195 tokens=1705961 diff=-0.0276 gnorm=0.013 rollout=733.4s train=447.8s
+[08:34:52] step 63: reward=0.3906 first_acc=0.4062 seqs=248 tokens=2211841 diff=-0.0278 gnorm=0.017 rollout=828.3s train=566.6s
+[08:55:28] step 64: reward=0.3312 first_acc=0.3438 seqs=203 tokens=1714969 diff=-0.0293 gnorm=0.016 rollout=786.3s train=403.3s
+[09:17:08] step 65: reward=0.093 first_acc=0.0938 seqs=189 tokens=1725757 diff=-0.0286 gnorm=0.012 rollout=795.9s train=455.9s
+[09:36:06] step 66: reward=0.3227 first_acc=0.3281 seqs=144 tokens=1275996 diff=-0.0290 gnorm=0.014 rollout=807.7s train=282.1s
+[09:55:40] step 67: reward=0.3328 first_acc=0.3438 seqs=207 tokens=1815556 diff=-0.0278 gnorm=0.015 rollout=705.3s train=422.1s
+[10:14:33] step 68: reward=0.3047 first_acc=0.3125 seqs=205 tokens=1545979 diff=-0.0276 gnorm=0.014 rollout=753.7s train=333.3s
+[10:31:18] step 69: reward=0.168 first_acc=0.1719 seqs=202 tokens=1444247 diff=-0.0286 gnorm=0.011 rollout=629.5s train=327.9s
+[10:48:11] step 70: reward=0.293 first_acc=0.2969 seqs=204 tokens=1522658 diff=-0.0278 gnorm=0.012 rollout=665.1s train=301.7s
+[11:03:38] eval step 70: first_answer_acc=0.21 pass@4=0.39 (926s)
+[11:22:26] step 71: reward=0.3133 first_acc=0.3125 seqs=238 tokens=1714974 diff=-0.0282 gnorm=0.012 rollout=714.0s train=367.1s
+[11:47:06] step 72: reward=0.1969 first_acc=0.2031 seqs=182 tokens=1656076 diff=-0.0273 gnorm=0.017 rollout=944.1s train=489.2s
+[12:10:07] step 73: reward=0.3102 first_acc=0.3125 seqs=188 tokens=1742080 diff=-0.0276 gnorm=0.015 rollout=929.7s train=404.3s
+[12:30:50] step 74: reward=0.2273 first_acc=0.2344 seqs=200 tokens=1658727 diff=-0.0275 gnorm=0.012 rollout=837.9s train=357.4s
+[12:59:33] step 75: reward=0.3109 first_acc=0.3125 seqs=256 tokens=2567035 diff=-0.0282 gnorm=0.015 rollout=956.7s train=717.9s
+=== restart 1 at 2026-11-24 14:05:13 ===
+[14:06:37] trainer loaded 1499 tensors in 43s; resuming at step 75
+[14:32:14] step 76: reward=0.3539 first_acc=0.3594 seqs=279 tokens=2463384 diff=-0.0283 gnorm=0.016 rollout=825.7s train=666.6s
+[14:53:59] step 77: reward=0.357 first_acc=0.3594 seqs=238 tokens=1978437 diff=-0.0272 gnorm=0.014 rollout=816.2s train=444.1s
+[15:15:17] step 78: reward=0.3141 first_acc=0.3281 seqs=216 tokens=1679676 diff=-0.0270 gnorm=0.016 rollout=853.6s train=380.5s
+[15:37:24] step 79: reward=0.2711 first_acc=0.2812 seqs=188 tokens=1687757 diff=-0.0273 gnorm=0.017 rollout=898.1s train=387.6s
+[15:58:07] step 80: reward=0.2508 first_acc=0.25 seqs=179 tokens=1666981 diff=-0.0274 gnorm=0.011 rollout=778.3s train=421.1s
+[16:15:19] eval step 80: first_answer_acc=0.17 pass@4=0.34 (1032s)
+[16:38:44] step 81: reward=0.2938 first_acc=0.2969 seqs=227 tokens=2124269 diff=-0.0260 gnorm=0.015 rollout=853.7s train=511.1s
+[17:01:34] step 82: reward=0.2711 first_acc=0.2812 seqs=164 tokens=1588609 diff=-0.0265 gnorm=0.013 rollout=905.8s train=419.5s
+[17:22:18] step 83: reward=0.1273 first_acc=0.125 seqs=125 tokens=1207400 diff=-0.0278 gnorm=0.008 rollout=878.2s train=320.2s
+[17:44:26] step 84: reward=0.2781 first_acc=0.2812 seqs=185 tokens=1835860 diff=-0.0270 gnorm=0.011 rollout=809.3s train=473.0s
+[18:05:25] step 85: reward=0.3961 first_acc=0.4062 seqs=225 tokens=1957547 diff=-0.0256 gnorm=0.016 rollout=773.7s train=437.8s
+[18:25:50] step 86: reward=0.2273 first_acc=0.2344 seqs=134 tokens=1315290 diff=-0.0255 gnorm=0.012 rollout=859.0s train=322.3s
+[18:50:48] step 87: reward=0.2906 first_acc=0.2969 seqs=267 tokens=2427936 diff=-0.0270 gnorm=0.016 rollout=829.7s train=623.0s
+[19:12:34] step 88: reward=0.2102 first_acc=0.2188 seqs=207 tokens=1655663 diff=-0.0258 gnorm=0.011 rollout=906.4s train=352.7s
+[19:35:27] step 89: reward=0.2398 first_acc=0.25 seqs=212 tokens=1787490 diff=-0.0251 gnorm=0.012 rollout=899.5s train=429.6s
+[19:58:07] step 90: reward=0.3539 first_acc=0.3594 seqs=168 tokens=1531707 diff=-0.0263 gnorm=0.012 rollout=906.2s train=408.5s
+[20:17:45] eval step 90: first_answer_acc=0.27 pass@4=0.44 (1178s)
+[20:40:15] step 91: reward=0.1852 first_acc=0.1875 seqs=101 tokens=1106539 diff=-0.0271 gnorm=0.009 rollout=1011.1s train=292.7s
+[21:01:18] step 92: reward=0.2578 first_acc=0.2656 seqs=216 tokens=2028361 diff=-0.0256 gnorm=0.015 rollout=713.5s train=504.5s
+[21:22:01] step 93: reward=0.2789 first_acc=0.2812 seqs=197 tokens=1536732 diff=-0.0260 gnorm=0.011 rollout=836.0s train=359.7s
+[21:51:45] step 94: reward=0.318 first_acc=0.3281 seqs=247 tokens=2481839 diff=-0.0280 gnorm=0.014 rollout=999.2s train=737.9s
+[22:15:24] step 95: reward=0.2328 first_acc=0.2344 seqs=202 tokens=1779694 diff=-0.0272 gnorm=0.015 rollout=952.2s train=420.3s
+[22:37:30] step 96: reward=0.4445 first_acc=0.4531 seqs=250 tokens=1910383 diff=-0.0257 gnorm=0.014 rollout=847.6s train=432.5s
+[22:59:38] step 97: reward=0.182 first_acc=0.1875 seqs=119 tokens=1044071 diff=-0.0264 gnorm=0.012 rollout=992.3s train=289.4s
+[23:22:20] step 98: reward=0.2156 first_acc=0.2188 seqs=208 tokens=1862281 diff=-0.0266 gnorm=0.013 rollout=816.7s train=497.6s
+[23:48:38] step 99: reward=0.1742 first_acc=0.1719 seqs=238 tokens=2412495 diff=-0.0272 gnorm=0.018 rollout=919.2s train=611.2s
+[00:07:31] step 100: reward=0.2953 first_acc=0.3125 seqs=162 tokens=1317983 diff=-0.0264 gnorm=0.013 rollout=770.9s train=317.7s
+[00:26:41] eval step 100: first_answer_acc=0.23 pass@4=0.41 (1150s)
+[00:55:23] step 101: reward=0.5023 first_acc=0.5156 seqs=297 tokens=2688660 diff=-0.0265 gnorm=0.015 rollout=955.7s train=718.9s
+[01:22:42] step 102: reward=0.3617 first_acc=0.375 seqs=285 tokens=2573685 diff=-0.0262 gnorm=0.018 rollout=976.4s train=616.5s
+[01:49:52] step 103: reward=0.3477 first_acc=0.3594 seqs=214 tokens=2224027 diff=-0.0277 gnorm=0.019 rollout=986.4s train=596.2s
+[02:16:57] step 104: reward=0.2711 first_acc=0.2812 seqs=259 tokens=2500690 diff=-0.0276 gnorm=0.016 rollout=956.5s train=620.8s
+[02:38:55] step 105: reward=0.4375 first_acc=0.4531 seqs=264 tokens=2179680 diff=-0.0266 gnorm=0.017 rollout=771.9s train=498.1s
+[03:05:31] step 106: reward=0.2164 first_acc=0.2188 seqs=234 tokens=2119547 diff=-0.0269 gnorm=0.016 rollout=954.5s train=593.9s
+[03:25:19] step 107: reward=0.3859 first_acc=0.3906 seqs=197 tokens=1589393 diff=-0.0267 gnorm=0.011 rollout=805.6s train=335.4s
+[03:50:33] step 108: reward=0.2594 first_acc=0.2656 seqs=205 tokens=2074363 diff=-0.0268 gnorm=0.017 rollout=898.5s train=568.4s
+[04:16:22] step 109: reward=0.3187 first_acc=0.3281 seqs=284 tokens=2460714 diff=-0.0271 gnorm=0.018 rollout=878.7s train=623.1s
+[04:39:14] step 110: reward=0.4266 first_acc=0.4375 seqs=237 tokens=2148442 diff=-0.0267 gnorm=0.017 rollout=802.7s train=521.3s
+[04:57:21] eval step 110: first_answer_acc=0.26 pass@4=0.39 (1086s)
+[05:22:37] step 111: reward=0.243 first_acc=0.25 seqs=207 tokens=2019007 diff=-0.0273 gnorm=0.015 rollout=931.5s train=537.2s
+[05:43:15] step 112: reward=0.1875 first_acc=0.1875 seqs=125 tokens=991715 diff=-0.0288 gnorm=0.010 rollout=945.0s train=245.2s
+[05:59:52] step 113: reward=0.3547 first_acc=0.375 seqs=173 tokens=1326624 diff=-0.0270 gnorm=0.012 rollout=634.8s train=315.3s
+[06:26:51] step 114: reward=0.2313 first_acc=0.2344 seqs=236 tokens=2658887 diff=-0.0277 gnorm=0.019 rollout=884.5s train=686.0s
+[06:51:56] step 115: reward=0.2781 first_acc=0.2812 seqs=230 tokens=2053951 diff=-0.0278 gnorm=0.014 rollout=942.0s train=515.8s
+[07:09:23] eval step 115: first_answer_acc=0.22 pass@4=0.42 (1046s)
+exit 0

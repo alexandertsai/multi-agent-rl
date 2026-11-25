@@ -1,0 +1,16 @@
+[2026-11-22 22:13:38] waiting for the running trainer
+[2026-11-23 00:21:41] trainer exited (1); restart 1/6
+[2026-11-23 00:52:50] trainer exited (1); restart 2/6
+[2026-11-23 00:53:22] trainer exited (1); restart 3/6
+[2026-11-23 18:40:39] trainer exited (1); restart 1/6
+[2026-11-23 18:41:09] restarting vLLM servers
+Started; wait for 'Application startup complete' in runs/vllm-rl-800{0,1}.log
+[2026-11-23 19:54:13] trainer exited (1); restart 2/6
+[2026-11-23 22:30:16] trainer exited (1); restart 3/6
+[2026-11-24 00:16:24] trainer exited (1); restart 4/6
+[2026-11-24 00:16:54] restarting vLLM servers
+Started; wait for 'Application startup complete' in runs/vllm-rl-800{0,1}.log
+[2026-11-24 13:57:32] trainer exited (1); restart 1/6
+[2026-11-24 13:58:02] restarting vLLM servers
+Started; wait for 'Application startup complete' in runs/vllm-rl-800{0,1}.log
+[2026-11-25 07:09:31] run finished
