@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local models and experiment output
+.venv-agent-rl/
+models/
+runs/
+tmp/

@@ -1,0 +1,28 @@
+{
+  "episodes": 400,
+  "puzzles": 100,
+  "first_answer_acc": 0.09,
+  "team_pass@1": 0.09,
+  "rescuable": 0.0,
+  "agent_acc": 0.09,
+  "no_answer": 0.4675,
+  "never_messaged": 1.0,
+  "messages_per_agent": 0.0,
+  "inbox_checks_per_agent": 0.0,
+  "turns_per_agent": 1.0,
+  "tokens_per_agent": 8551.05,
+  "tokens_per_episode": 8551.05,
+  "mean_reward": 0.09,
+  "stops": {
+    "submitted": 213,
+    "turn_tokens": 187
+  },
+  "episode_pass@1": 0.09,
+  "episode_pass@4": 0.25,
+  "first_answer_acc_by_band": {
+    "2000-2200": 0.06,
+    "2200-2400": 0.11,
+    "2400-2600": 0.11,
+    "2600-2800": 0.08
+  }
+}

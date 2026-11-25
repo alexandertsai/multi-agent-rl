@@ -1,0 +1,11 @@
+# agent-rl serving and rollout environment (Python 3.12). setup.sh installs the
+# resolved requirements.lock; after editing this file, regenerate it with:
+#   uv pip compile --python-version 3.12 --python-platform x86_64-manylinux_2_28 \
+#     --torch-backend cu129 requirements.txt -o requirements.lock
+# There is no CUDA 12.6 vLLM wheel for 0.30+ (the first release with Qwen3.8-Flash-Next).
+# The official CUDA 12.9 build runs on the VMs' CUDA 12.x drivers through minor-version
+# compatibility, as the repo's cu126 stacks already do on driver 535 (native CUDA 12.2).
+vllm @ https://github.com/vllm-project/vllm/releases/download/v0.32.0/vllm-0.32.0+cu129-cp38-abi3-manylinux_2_28_x86_64.whl
+chess==1.11.2
+openai>=3.45,<4
+pyarrow>=25

@@ -1,0 +1,23 @@
+{
+  "preset": "team4",
+  "config": {
+    "n_agents": 4,
+    "tools": true,
+    "max_turns": 50,
+    "max_turn_tokens": 12000,
+    "max_context": 48000,
+    "max_wait_seconds": 120.0,
+    "team_weight": 0.8,
+    "own_weight": 0.2,
+    "rush_penalty": 0.2
+  },
+  "data": "data/heldout.jsonl",
+  "samples": 2,
+  "limit": null,
+  "concurrency": 128,
+  "base_url": "http://127.0.0.1:8000/v1,http://127.0.0.1:8001/v1",
+  "model": "Qwen3.8-Flash-Next",
+  "reasoning_effort": "low",
+  "no_preserve_thinking": false,
+  "out": "runs/base-team4"
+}
